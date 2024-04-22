@@ -19,7 +19,7 @@ const Roboflow = ({ userImage, confidence, overlap, setNumberOfEggs }) => {
             method: "POST",
             url: PROJECT_URL,
             params: {
-                api_key: "", //Insert API Key
+                api_key: import.meta.env.VITE_ROBOFLOW_API_KEY, //Insert API Key
                 confidence: confidence,
                 overlap: overlap
             },

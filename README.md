@@ -27,7 +27,10 @@ cd strongylid-egg-detection
 npm install
 ```
 
-4. Add your Roboflow API key to the query in `./src/components/Roboflow.jsx`
+4. Create a `.env` file in the root directory of the project and add a your API key:
+```bash
+VITE_ROBOFLOW_API_KEY=INSERT-API-KEY-HERE
+```
 
 5. Start the development server:
 ```bash
