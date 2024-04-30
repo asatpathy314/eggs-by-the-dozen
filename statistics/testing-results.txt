@@ -1,0 +1,14 @@
+Image 001 - 2 - 3
+Image 002 - 6 - 6
+Image 003 - 1 - 0
+Image 004 - 1 - 1
+Image 005 - 3 - 4
+Image 008 - 3 - 3
+Image 009 - 1 - 1
+Image 010 - 10 - 8
+Image 014 - 4 - 4
+Image 015 - 1 - 1 
+Image 016 - 2 - 2
+Image 017 - 3 - 3
+Image 018 - 0 - 0
+Image 020 - 3 - 3 
