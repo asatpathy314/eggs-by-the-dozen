@@ -61,4 +61,3 @@ Contributions are welcome! Please feel free to submit a pull request or create a
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/asatpathy314/eggs-by-the-dozen/blob/main/LICENSE) file for details.
-

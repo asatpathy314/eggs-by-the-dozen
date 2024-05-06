@@ -1,9 +1,10 @@
-import matplotlib.pyplot as plt
 from sklearn.metrics import precision_score, recall_score, f1_score
+
+import matplotlib.pyplot as plt
 
 # Index 1 = Gold Label, Index 2 = Testing results
 
-with open ("./testing-results.txt", "r") as f:
+with open("./testing-results.txt", "r") as f:
     results = f.readlines()
 
 results = [list(map(str.strip, result.split("-"))) for result in results]
